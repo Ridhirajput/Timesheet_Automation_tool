@@ -33,7 +33,7 @@ const PROJECT = "Miscellaneous Task";
 const TASK = "Random Development Work/Unassigned";
 const PERCENT_FINISH = "100%";
 const HOURS = "9";
-const REMARKS = "Worked on Payreel UI";
+const REMARKS = "Worked on Project UI";
 ```
 
 Set `HEADLESS=true` in `.env` to run without a visible browser (e.g. for scheduled/unattended runs). Set `WEEK_START=YYYY-MM-DD` (a Monday) to backfill a specific week instead of the current one.
